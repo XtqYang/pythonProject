@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h1>{{ n1 }}</h1>
+{#取数组第一个#}
+<div>{{ n2.0 }}</div>
+{#取数组第二个#}
+<div>{{ n2.1 }}</div>
+{#for循环取数组数据,有开始有结束#}
+<div>
+    {% for item in n2 %}
+        <span>{{ item }}</span>
+    {% endfor %}
+</div>
+{#获取对应字典值#}
+{{ n3.name }}
+{{ n3.lisha }}
+<hr/>
+<ul>
+    {% for k,v in n3.items %}
+        <li>{{ k }}={{ v }}</li>
+    {% endfor %}
+</ul>
+{# 数组里面套字典#}
+{{ n4.0 }}
+{{ n4.0.name }}
+{% for item in n4 %}
+    <div>{{ item.name }}{{ item.lisha }}</div>
+{% endfor %}
+<hr/>
+{#条件语句#}
+{% if n1 == "小明" %}
+    <h1>我是if</h1>
+{% elif n1 == "小芳" %}
+    <h1>我是elif</h1>
+{% else %}
+    <h1>我是else</h1>
+{% endif %}
+
+
+</body>
+</html>

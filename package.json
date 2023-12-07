@@ -1,0 +1,29 @@
+{
+  "name": "pythonProject",
+  "version": "1.0.0",
+  "dependencies": {
+    "@babel/core": "^7.23.3",
+    "@babel/generator": "^7.23.3",
+    "@babel/parser": "^7.23.3",
+    "@babel/plugin-syntax-jsx": "^7.23.3",
+    "@babel/traverse": "^7.23.3",
+    "@babel/types": "^7.23.3",
+    "@element-plus/icons-vue": "^2.1.0",
+    "axios": "^1.4.0",
+    "crypto-js": "^4.1.1",
+    "element-plus": "^2.3.12",
+    "express": "^4.18.2",
+    "jsdom": "^22.1.0",
+    "md5-node": "^1.0.1",
+    "microsoft-cognitiveservices-speech-sdk": "^1.30.1",
+    "mysql": "^2.18.1",
+    "node-inspect": "^2.0.0",
+    "recast": "^0.23.4",
+    "redis": "^4.6.4",
+    "vm2": "^3.9.19",
+    "vue": "^3.3.4",
+    "vue-jsonp": "^2.0.0",
+    "vue-router": "^4.2.4",
+    "vuex": "^4.0.2"
+  }
+}

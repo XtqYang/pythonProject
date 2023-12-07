@@ -1,0 +1,22 @@
+[INFO  - 2022-11-05T14:03:20.376Z] GhostDriver - Main - running on port 54174
+[INFO  - 2022-11-05T14:03:21.004Z] Session [9b05da80-5d12-11ed-8043-fb7a4460956b] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2022-11-05T14:03:21.004Z] Session [9b05da80-5d12-11ed-8043-fb7a4460956b] - page.customHeaders:  - {}
+[INFO  - 2022-11-05T14:03:21.005Z] Session [9b05da80-5d12-11ed-8043-fb7a4460956b] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2022-11-05T14:03:21.005Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 9b05da80-5d12-11ed-8043-fb7a4460956b
+[ERROR - 2022-11-05T14:03:23.907Z] Session [9b05da80-5d12-11ed-8043-fb7a4460956b] - page.onError - msg: Expected function name "entries", was ""
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2022-11-05T14:03:23.907Z] Session [9b05da80-5d12-11ed-8043-fb7a4460956b] - page.onError - stack:
+  t (https://pss.bdstatic.com/r/www/cache/static/protocol/https/bundles/es6-polyfill_5645e88.js:130)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2022-11-05T14:03:23.907Z] Session [9b05da80-5d12-11ed-8043-fb7a4460956b] - page.onError - msg: Expected function name "values", was ""
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2022-11-05T14:03:23.907Z] Session [9b05da80-5d12-11ed-8043-fb7a4460956b] - page.onError - stack:
+  t (https://pss.bdstatic.com/r/www/cache/static/protocol/https/bundles/es6-polyfill_5645e88.js:130)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2022-11-05T14:03:35.341Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1667657015319
+
+  phantomjs://platform/console++.js:263 in error

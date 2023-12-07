@@ -1,0 +1,859 @@
+﻿
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width,initial-scale=1">
+		<meta name="renderer" content="webkit">
+		<meta name="force-rendering" content="webkit"/>
+		<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1"/>
+		<title>成都东软学院 - 教育 - 官网首页</title>
+		<link rel="shortcut icon" href="/img/favicon.ico">
+		<link rel="stylesheet" type="text/css" href="css/v2/public.css"/>
+		<link rel="stylesheet" type="text/css" href="css/v2/nav.css"/>
+		<link rel="stylesheet" type="text/css" href="css/v2/home-page.css?20220422"/>
+		<link rel="stylesheet" type="text/css" href="css/v2/iconfont.css"/>
+		<script src="js/jquery.min.js" type="text/javascript" charset="utf-8"></script>
+		<script src="js/jquery.browser.js" type="text/javascript" charset="utf-8"></script>
+		<script src="js/slide.js?20190524" type="text/javascript" charset="utf-8"></script>
+		<script src="js/index.js" type="text/javascript" charset="utf-8"></script>
+		<script src="js/menu.js" type="text/javascript" charset="utf-8"></script>
+		<script src="js/search.js" type="text/javascript" charset="utf-8"></script>
+	<Script type="text/javascript">
+		var bannerCount = 5;
+	</script>
+
+	</head>
+	<body>
+	
+	<!--菜单-->
+	
+		<div class="nav">
+			<div class="nav_main">
+			<span class="iconfont icon-caidan"></span>
+			<span class="iconfont icon-sousuo"></span>
+			<div id="searchDiv"><div class="input"><input tyle="text" value="" placeholder="请输入想要搜索的新闻内容后回车" /></div><div id="searchResult"></div></div>
+			<a href="https://www.nsu.edu.cn/" class="logo"><img src="/img/logo.png"></a>
+			
+			<div class="sider">
+			<div class="siderbg"></div>
+			<div class="nav-3">
+				<!--<div class="nav-3-1"><a href="/">首页</a></div>-->
+
+
+				<div class="nav-3-1">
+					<a href="/HTML/intro/article_11.html"><div class="navbtn">学校概况</div></a>
+					<div class="nav-3-2">
+						<ul>
+
+							<a href="/HTML/intro/article_11.html">
+								<li>学校简介</li>
+							</a>
+
+							<a href="/HTML/intro/article_12.html">
+								<li>领导致辞</li>
+							</a>
+
+							<a href="/HTML/intro/article_15.html">
+								<li>组织机构</li>
+							</a>
+
+							<a href="/HTML/intro/article_106.html">
+								<li>理念特色</li>
+							</a>
+
+							<a href="/HTML/intro/article_17.html">
+								<li>大 事 记</li>
+							</a>
+
+							<a href="/HTML/intro/article_16.html">
+								<li>领导关怀</li>
+							</a>
+
+							<a href="/HTML/intro/article_31.html">
+								<li>校园环境</li>
+							</a>
+
+							<a href="https://www.nsu.edu.cn/HTML/image/list_49.html" target="_blank">
+								<li>影像东软</li>
+							</a>
+
+							<a href="/HTML/intro/article_133.html">
+								<li>大学精神</li>
+							</a>
+
+							<a href="https://dq.nsu.edu.cn/" target="_blank">
+								<li>党群工作</li>
+							</a>
+
+						</ul>
+					</div>
+				</div>
+
+				<div class="nav-3-1">
+					<a href="/HTML/dept/"><div class="navbtn">学院介绍</div></a>
+					<div class="nav-3-2">
+						<ul>
+
+							<a href="https://cs.nsu.edu.cn/" target="_blank">
+								<li>计算机与软件学院</li>
+							</a>
+
+							<a href="https://sibm.nsu.edu.cn/" target="_blank">
+								<li>信息与商务管理学院</li>
+							</a>
+
+							<a href="https://da.nsu.edu.cn/" target="_blank">
+								<li>数字艺术与设计学院</li>
+							</a>
+
+							<a href="https://english.nsu.edu.cn/" target="_blank">
+								<li>外国语学院</li>
+							</a>
+
+							<a href="https://jk.nsu.edu.cn/" target="_blank">
+								<li>健康医疗科技学院</li>
+							</a>
+
+							<a href="https://gz.nsu.edu.cn/" target="_blank">
+								<li>高等职业技术学院</li>
+							</a>
+
+							<a href="https://io.nsu.edu.cn/" target="_blank">
+								<li>国际教育学院</li>
+							</a>
+
+							<a href="https://basic.nsu.edu.cn/" target="_blank">
+								<li>基础教学学院</li>
+							</a>
+
+							<a href="https://sz.nsu.edu.cn/" target="_blank">
+								<li>马克思主义学院</li>
+							</a>
+
+							<a href="https://sovo.nsu.edu.cn/" target="_blank">
+								<li>创新创业学院</li>
+							</a>
+
+							<a href="https://cec.nsu.edu.cn/" target="_blank">
+								<li>继续教育（培训）学院</li>
+							</a>
+
+							<a href="https://tyjr.nsu.edu.cn/" target="_blank">
+								<li>退役军人教育学院</li>
+							</a>
+
+						</ul>
+					</div>
+				</div>
+
+				<div class="nav-3-1">
+					<a href="/HTML/news/article_18.html"><div class="navbtn">新闻中心</div></a>
+					<div class="nav-3-2">
+						<ul>
+
+							<a href="/HTML/news/list_18.html">
+								<li>学校新闻</li>
+							</a>
+
+							<a href="/HTML/news/list_19.html">
+								<li>通知通告</li>
+							</a>
+
+							<a href="/HTML/news/list_68.html">
+								<li>聚焦东软</li>
+							</a>
+
+							<a href="/HTML/news/list_21.html">
+								<li>媒体聚焦</li>
+							</a>
+
+							<a href="/HTML/news/list_62.html">
+								<li>信息公开</li>
+							</a>
+
+						</ul>
+					</div>
+				</div>
+
+				<div class="nav-3-1">
+					<a href="/HTML/recruit/"><div class="navbtn">招生就业</div></a>
+					<div class="nav-3-2">
+						<ul>
+
+							<a href="https://zs.nsu.edu.cn/html/" target="_blank">
+								<li>招生信息</li>
+							</a>
+
+							<a href="https://career.nsu.edu.cn/" target="_blank">
+								<li>就业指导</li>
+							</a>
+
+						</ul>
+					</div>
+				</div>
+
+				<div class="nav-3-1">
+					<a href="/HTML/teach/article_107.html"><div class="navbtn">人才培养</div></a>
+					<div class="nav-3-2" style="right:0">
+						<ul>
+
+							<a href="/HTML/teach/article_107.html">
+								<li>培养模式</li>
+							</a>
+
+							<a href="/HTML/teach/article_111.html">
+								<li>教学质量</li>
+							</a>
+
+							<a href="/HTML/teach/article_44.html">
+								<li>学生工作</li>
+							</a>
+
+							<a href="/HTML/teach/article_45.html">
+								<li>校 团 委</li>
+							</a>
+
+							<a href="https://lab.nsu.edu.cn/" target="_blank">
+								<li>实验实训</li>
+							</a>
+
+							<a href="/HTML/teach/list_69.html">
+								<li>师资力量</li>
+							</a>
+
+							<a href="/HTML/teach/article_30.html">
+								<li>奖助学金</li>
+							</a>
+
+							<a href="/HTML/teach/article_128.html">
+								<li>图书馆</li>
+							</a>
+
+							<a href="/HTML/teach/article_53.html">
+								<li>后勤保障</li>
+							</a>
+
+						</ul>
+					</div>
+				</div>
+
+				<div class="nav-3-1">
+					<a href="/HTML/service/article_55.html"><div class="navbtn">服务指南</div></a>
+					<div class="nav-3-2">
+						<ul>
+
+							<a href="/HTML/service/article_129.html">
+								<li>校园地图</li>
+							</a>
+
+							<a href="/HTML/service/article_55.html">
+								<li>联系我们</li>
+							</a>
+
+							<a href="http://r.nsu.edu.cn/" target="_blank">
+								<li>自助缴费</li>
+							</a>
+
+							<a href="/HTML/service/article_51.html">
+								<li>校长信箱</li>
+							</a>
+
+							<a href="/HTML/service/article_58.html">
+								<li>友情链接</li>
+							</a>
+
+						</ul>
+					</div>
+				</div>
+
+				<div class="nav-3-1">
+					<a href="/HTML/service/article_58.html"><div class="navbtn">友情链接</div></a>
+					<div class="nav-3-2">
+						<ul>
+
+							<a href="http://www.neuedu.com/" target="_blank">
+								<li>东软教育科技集团</li>
+							</a>
+
+							<a href="http://www.neusoft.edu.cn/" target="_blank">
+								<li>大连东软信息学院</li>
+							</a>
+
+							<a href="http://www.nuit.edu.cn/" target="_blank">
+								<li>广东东软学院</li>
+							</a>
+
+							<a href="http://gxlz.scedu.net/" target="_blank">
+								<li>四川省高校网络理政平台</li>
+							</a>
+
+						</ul>
+					</div>
+				</div>
+			</div><!--nav3 end-->
+			</div><!--sider end-->
+			</div>
+
+		</div>
+	<!--菜单结束-->
+
+
+	<!--幻灯片-->
+		<div class="pic">
+			<div class="box-1">
+
+				<div class="indexbanner" style="left:0;background: url(//img.nsu.edu.cn/upload/2023/1/2023_01_21_11_47_28_546.png) 100%;background-position: 50%;background-size: cover;background-color: #777;background-repeat: no-repeat;" data-time="10"></div>
+
+				<div class="indexbanner" style="background: url(//img.nsu.edu.cn/upload/2023/1/2023_01_01_11_56_20_363.png) 100%;background-position: 50%;background-size: cover;background-color: #777;background-repeat: no-repeat;" data-time="10"></div>
+
+				<div class="indexbanner" style="background: url(//img.nsu.edu.cn/upload/2022/11/2022_11_07_14_09_12_178.jpg) 100%;background-position: 50%;background-size: cover;background-color: #777;background-repeat: no-repeat;" data-time="10"></div>
+
+				<a href="http://www.xinhuanet.com/politics/cpc20/index.htm" target="_blank"><div class="indexbanner" style="background: url(//img.nsu.edu.cn/upload/2022/10/2022_10_25_17_25_42_854.png) 100%;background-position: 50%;background-size: cover;background-color: #777;background-repeat: no-repeat;" data-time="10"></div></a>
+
+				<a href="http://20th.cpcnews.cn/" target="_blank"><div class="indexbanner" style="background: url(//img.nsu.edu.cn/upload/2022/10/2022_10_17_15_19_49_191.png) 100%;background-position: 50%;background-size: cover;background-color: #777;background-repeat: no-repeat;" data-time="10"></div></a>
+
+				<div class="indexbanner" style="background: url(//img.nsu.edu.cn/upload/2019/6/2019_06_26_16_56_25_485.png) 100%;background-position: 50%;background-size: cover;background-color: #777;background-repeat: no-repeat;" data-time="10"></div>
+
+			</div>
+			<div class="tit">
+				<ul>
+					<li><a href="javascript:;"style="font-size: 24px;">1</a></li>
+
+					<li>/</li>
+					<li><a href="javascript:;">2</a></li>
+
+					<li>/</li>
+					<li><a href="javascript:;">3</a></li>
+
+					<li>/</li>
+					<li><a href="javascript:;">4</a></li>
+
+					<li>/</li>
+					<li><a href="javascript:;">5</a></li>
+
+					<li>/</li>
+					<li><a href="javascript:;">6</a></li>
+
+				</ul>
+				<div class="float"></div>
+				<div class="text"><img src="/img/i_cn.png" class="cn" /><img src="/img/i_en.png" class="en" /></div>
+				<div class="icon">
+					<a href="https://www.nsu.edu.cn/HTML/service/article_55.html"><div class="iconfont icon-dianhua"></div></a>
+					<div class="iconfont icon-weixin"><div class="upDiv"></div></div>
+					<a href="https://weibo.com/neusoft028" target="_blank"><div class="iconfont icon-weibo"><div class="upDiv"></div></div></a>
+					<a href="https://720yun.com/t/63e29wakj1v?scene_id=42923" target="_blank"><div class="iconfont icon-vr"><div class="upDiv"></div></div></a>
+					<div class="iconfont icon-sousuo"><div class="input"><input tyle="text" value="" placeholder="请输入内容后回车" /></div></div>
+					
+				</div>
+			</div>
+			<div class="leftB">&lt;</div>
+			<div class="rightB">&gt;</div>
+		</div>
+	<!--幻灯片结束-->
+
+	<!--新闻板块-->
+		<div class="key-news">
+
+			<a href="/HTML/news/2023/01/article_3510.html"><div class="mod">
+				<div class="photo" style="background: url(//img.nsu.edu.cn/upload/2023/1/20230114_141548.jpg) 100% no-repeat;background-size:cover;background-position-x: center;background-position-y: top;"></div>
+				<div class="data2">
+					<div class="data2-1">2023.01</div>
+					<div class="data2-2">14</div>
+				</div>
+				<div class="line"><div class="line_1"></div><div class="line_2"></div><div class="line_3">2023.01.14</div></div>
+				<div class="title">
+					<p>学校党委开展新春走访慰问活动</p>
+				</div>
+				<div class="more">
+					<div>
+						
+						<p>在2023年新春佳节即将到来之际，受校长张应辉，党委书记赖廷谦委托，校长助理张兵、陈旭辉率领党委组织部、党群工作部、校工会等相关部门负责人，通过电话慰问、专程走访等方式慰问了曹云凤、康桂花、易胜华、刘明理、钟沛然五位退休老领导，向他们送上新春的祝福和学校的关怀，感谢他们长期以来对学校发展建设的关心支持，并听取了他们对学校各项工作的意见建议...</p>
+					</div>
+				</div>
+
+			</div></a>
+
+			<a href="/HTML/news/2023/01/article_3509.html"><div class="mod">
+				<div class="photo" style="background: url(//img.nsu.edu.cn/upload/2023/1/20230113_135344.jpg) 100% no-repeat;background-size:cover;background-position-x: center;background-position-y: top;"></div>
+				<div class="data2">
+					<div class="data2-1">2023.01</div>
+					<div class="data2-2">13</div>
+				</div>
+				<div class="line"><div class="line_1"></div><div class="line_2"></div><div class="line_3">2023.01.13</div></div>
+				<div class="title">
+					<p>我校12门课程获省级一流本科课程认定</p>
+				</div>
+				<div class="more">
+					<div>
+						
+						<p>日前，四川省教育厅发布了《关于公布2022年省级一流本科课程认定结果的通知》。经高校推荐、评审遴选、结果公示等程序，我校12门课程被认定为省级一流本科课程，其中，线上一流本科课程4门，线下一流本科课程3门，线上线下混合式一流本科课程5门。截至目前，我校已建成各类省级一流本科课程25门，其中线上课程7门，线下课程7门，线上线下混合式课程10门，社会实践类课程1门...</p>
+					</div>
+				</div>
+
+			</div></a>
+
+			<a href="/HTML/news/2023/01/article_3506.html"><div class="mod">
+				<div class="photo" style="background: url(//img.nsu.edu.cn/upload/2023/1/20230110_092435.png) 100% no-repeat;background-size:cover;background-position-x: center;background-position-y: top;"></div>
+				<div class="data2">
+					<div class="data2-1">2023.01</div>
+					<div class="data2-2">10</div>
+				</div>
+				<div class="line"><div class="line_1"></div><div class="line_2"></div><div class="line_3">2023.01.10</div></div>
+				<div class="title">
+					<p>我校获评2020-2022年度AAAAA级成都市模范劳动关系和谐单位</p>
+				</div>
+				<div class="more">
+					<div>
+						
+						<p>日前，成都市人力资源和社会保障局、成都市总工会、成都企业联合会、成都市工商业联合会发布了《关于发布第三届成都市模范劳动关系和谐单位名单的通知》，通报表彰成都市内一批劳动关系和谐的优秀单位。我校获评2020-2022年度AAAAA级成都市模范劳动关系和谐单位。一直以来，我校始终秉承以维护教职员工合法权益为中心，以提高教职员工生活水平为目的，以建立和谐的劳动关系为宗旨，不断提升员工的获得感、幸福感，努力构建全体教职员工与学校共同发展的良好局面...</p>
+					</div>
+				</div>
+
+			</div></a>
+
+		</div>
+	<!--板块一-->
+		<div class="modules1">
+			<img class="left" src="img/logo-left.png"/>
+			<img class="right" src="img/logo-right.png"/>
+			<img class="middle" src="img/灰度底纹.png"/>
+			<a href="/HTML/news/list_18.html"><div class="font">
+				<div class="font1">+</div>
+				<div class="font2">新闻</div>
+				<div class="font3">News</div>
+			</div></a>
+
+			<a href="/HTML/news/2023/01/article_3502.html"><div class="news">
+				<div class="news-top"></div>
+				<div class="news-m">
+					<div class="data2">
+						<div class="data2-1">2023.01</div>
+						<div class="data2-2">09</div>
+					</div>
+					<div class="data2-p">
+						<p>我校获人力资源和社会保障部通报表扬</p>
+					</div>
+				</div>
+				<div class="news-foot">
+					<p>日前，人力资源和社会保障部召开2022年世界技能大赛特别赛参赛总结视频会议，全面总结2022年世界技能大赛特别赛参赛工作，表扬...</p>
+				</div>
+			</div></a>
+
+			<a href="/HTML/news/2023/01/article_3501.html"><div class="news news-left">
+				<div class="news-top"></div>
+				<div class="news-m">
+					<div class="data2">
+						<div class="data2-1">2023.01</div>
+						<div class="data2-2">09</div>
+					</div>
+					<div class="data2-p">
+						<p>我校教师荣获第八届全国应用型人才综合技能大赛三等奖</p>
+					</div>
+				</div>
+				<div class="news-foot">
+					<p>日前，第八届全国应用型人才综合技能大赛获奖名单公布。我校计算机与软件学院教师钟佳伶、唐梁尧分别凭借作品《计算机网络》以及《<软件架构...</p>
+				</div>
+			</div></a>
+
+			<a href="/HTML/news/2023/01/article_3500.html"><div class="news news-left">
+				<div class="news-top"></div>
+				<div class="news-m">
+					<div class="data2">
+						<div class="data2-1">2023.01</div>
+						<div class="data2-2">06</div>
+					</div>
+					<div class="data2-p">
+						<p>我校“侨胞之家”被评为四川省侨联“侨胞之家”典型选树单位</p>
+					</div>
+				</div>
+				<div class="news-foot">
+					<p>近日，根据《成都市归国华侨联合会关于通报表扬2022年度成都市侨联工作先进单位和先进个人的通知》（成侨联[2023]1号）文件...</p>
+				</div>
+			</div></a>
+
+			<div class="btn">
+				<a href="/HTML/news/list_18.html">查看更多学校新闻</a>
+			</div>
+		</div>
+
+	<!--新媒体板块-->
+		<div class="modules_xmt">
+			<div class="modules_xmt-1">
+
+			<a href="#"><!--/HTML/news/list_20.html--><div>
+				<div class="font2">新媒体</div>
+				<div class="font3">New Media</div>
+			</div></a>
+
+
+			<a href="https://mp.weixin.qq.com/s/YYaK4lEgR_7_nYKxojnRbw" target="_blank"><div class="mod-float">
+				<div class="news">
+					<div class="news-top"></div>
+					<div class="photo" style="background: url(//img.nsu.edu.cn/upload/2023/1/2023_01_16_17_47_48_687.jpg) 100% no-repeat;background-size:cover;"></div>
+				</div>
+			</div></a>
+
+			<a href="https://mp.weixin.qq.com/s/LlVTYKpFo2Ot_CW6pfUsLw" target="_blank"><div class="mod-float news-left">
+				<div class="news">
+					<div class="news-top"></div>
+					<div class="photo" style="background: url(//img.nsu.edu.cn/upload/2023/1/2023_01_14_14_28_13_914.jpg) 100% no-repeat;background-size:cover;"></div>
+				</div>
+			</div></a>
+
+			<a href="https://mp.weixin.qq.com/s/0KqRi0Nqyz1qu_n6K2xm3w" target="_blank"><div class="mod-float news-left">
+				<div class="news">
+					<div class="news-top"></div>
+					<div class="photo" style="background: url(//img.nsu.edu.cn/upload/2023/1/2023_01_14_14_26_09_544.jpg) 100% no-repeat;background-size:cover;"></div>
+				</div>
+			</div></a>
+
+			</div>
+			<div class="middle">&nbsp;</div>
+		</div>
+
+
+
+	<!--板块二-->
+		<div class="modules2">
+			<div class="modules2-1">
+
+				<div class="plate">
+					<a href="/HTML/news/list_19.html"><div>
+						<div class="font2">通知公告</div>
+						<div class="font3">Top&nbsp;&nbsp;Notice</div>
+					</div></a>
+					<a href="/HTML/news/2022/11/article_3456.html"><div class="news">
+						<div class="news-top"></div>
+						<div class="news-m">
+							<div class="data2">
+								<div class="data2-1">2022.11</div>
+								<div class="data2-2">16</div>
+							</div>
+							<div class="data2-p">
+								<p>关于成都东软学院2022年成都市国际友好城市留学生政府奖学金获奖名单的公示</p>
+							</div>
+						</div>
+						<div class="news-foot">
+							<p>根据《成都市国际友好城市留学生政府奖学金项目管理暂行办法》文件精神，结合本校实际情况，本着公平公正公开的原则，我校关于成都市国...</p>
+						</div>
+					</div></a>
+					<div class="btn">
+						<a href="/HTML/news/list_19.html">查看更多通知公告</a>
+					</div>
+				</div>
+
+				<div class="plate news-left">
+					<a href="/HTML/news/list_62.html"><div>
+						<div class="font2">信息公开</div>
+						<div class="font3">Information&nbsp;&nbsp;Disclosure</div>
+					</div></a>
+					<a href="/HTML/news/2022/11/article_3475.html"><div class="news">
+						<div class="news-top"></div>
+						<div class="news-m">
+							<div class="data2">
+								<div class="data2-1">2022.11</div>
+								<div class="data2-2">29</div>
+							</div>
+							<div class="data2-p">
+								<p>成都东软学院2021-2022学年本科教学质量报告</p>
+							</div>
+						</div>
+						<div class="news-foot">
+							<p>    点击下载：成都东软学院2021-2022学年本科教学质量报告</p>
+						</div>
+					</div></a>
+					<div class="btn">
+						<a href="/HTML/news/list_62.html">查看更多信息公开</a>
+					</div>
+				</div>
+
+				<div class="plate news-left">
+					<a href="/HTML/news/list_21.html"><div>
+						<div class="font2">媒体聚焦</div>
+						<div class="font3">Media</div>
+					</div></a>
+					<a href="/HTML/news/2023/01/article_3513.html"><div class="news">
+						<div class="news-top"></div>
+						<div class="news-m">
+							<div class="data2">
+								<div class="data2-1">2023.01</div>
+								<div class="data2-2">17</div>
+							</div>
+							<div class="data2-p">
+								<p>【新华网】成都东软学院：打造混合式教育教学改革 为学子提供多方向专业</p>
+							</div>
+						</div>
+						<div class="news-foot">
+							<p>成都东软学院校长 张应辉教授新华网北京1月16日电 近日，成都东软学院参加新华网云连展，该校校长张应辉介绍了学校情况。成都东软学院是经教育部...</p>
+						</div>
+					</div></a>
+					<div class="btn">
+						<a href="/HTML/news/list_21.html">查看更多媒体聚焦</a>
+					</div>
+				</div>
+			</div>
+		</div>
+
+	<!--图片板块-->
+
+		<script>var pp = 4.572;</script>
+		<div class="modules_photo">
+			<ul>
+
+				<a href="https://io.nsu.edu.cn/2020/F5FB1D8F-402F-466B-B3D4-5284750A0C5C.html"><li><img src="//img.nsu.edu.cn/upload/2020/3/2020_03_30_10_13_09_516.jpg" /></li></a>
+
+				<a href="https://zs.nsu.edu.cn/html/"><li><img src="//img.nsu.edu.cn/upload/2022/6/2022_06_24_21_09_46_536.jpg" /></li></a>
+
+				<a href="https://features.nsu.edu.cn/bwcx/"><li><img src="//img.nsu.edu.cn/upload/2020/3/2020_03_30_10_14_21_102.jpg" /></li></a>
+
+<!--
+				<li><img src="/img/index/p1.png" /></li>
+				<li><img src="/img/index/p2.png" /></li>
+				<li><img src="/img/index/p3.png" /></li>
+				<li><img src="/img/index/p4.png" /></li>-->
+			</ul>
+		</div>
+
+	<!--板块四-->
+		<div class="modules4-gray">
+			<img class="left" src="img/logo-left.png"/>
+			<img class="right" src="img/logo-right.png"/>
+			<div style="height:1px;"></div>
+			<div class="modules4">
+				<div class="modleft">
+					<a href="/HTML/news/list_18.html"><div>
+						<div class="font2">人&nbsp;物</div>
+						<div class="font3">People</div>
+					</div></a>
+					
+					<ul class="modleft_move">
+
+						<li class="show">
+							<div>
+
+
+								<a href="/HTML/news/2022/04/article_3249.html"><div class="news">
+									<div class="news-top"></div>
+									<div class="news-foot">
+										<p>【团队】守卫冬奥网络安全，东软人在现场</p>
+									</div>
+									<div class="photo" style="background: url(//img.nsu.edu.cn/upload/2022/4/20220415_142655.png) 100% no-repeat;background-size:cover;"></div>
+								</div></a>
+
+
+								<a href="/HTML/news/2022/03/article_3227.html"><div class="news news-left">
+									<div class="news-top"></div>
+									<div class="news-foot">
+										<p>【人物】点赞2022北京冬残奥会火炬手——胡梦茹！</p>
+									</div>
+									<div class="photo" style="background: url(//img.nsu.edu.cn/upload/2022/3/20220324_092206.jpg) 100% no-repeat;background-size:cover;"></div>
+								</div></a>
+
+							</div>
+						</li>
+
+						<li>
+							<div>
+
+
+								<a href="/HTML/news/2022/03/article_3226.html"><div class="news">
+									<div class="news-top"></div>
+									<div class="news-foot">
+										<p>【人物】从“旱鸭子”到游泳健将——专访“残奥会”＆“特奥会”冠军姜汶林</p>
+									</div>
+									<div class="photo" style="background: url(//img.nsu.edu.cn/upload/2022/3/20220323_142645.jpg) 100% no-repeat;background-size:cover;"></div>
+								</div></a>
+
+
+								<a href="/HTML/news/2022/03/article_3224.html"><div class="news news-left">
+									<div class="news-top"></div>
+									<div class="news-foot">
+										<p>【人物】用自身所学为乡村振兴勾勒美好蓝图——徐家巍</p>
+									</div>
+									<div class="photo" style="background: url(//img.nsu.edu.cn/upload/2022/3/20220322_143413.jpg) 100% no-repeat;background-size:cover;"></div>
+								</div></a>
+
+							</div>
+						</li>
+
+						<li>
+							<div>
+
+
+								<a href="/HTML/news/2022/03/article_3223.html"><div class="news">
+									<div class="news-top"></div>
+									<div class="news-foot">
+										<p>【人物】到祖国最需要的地方去——袁帅</p>
+									</div>
+									<div class="photo" style="background: url(//img.nsu.edu.cn/upload/2022/3/20220322_144223.png) 100% no-repeat;background-size:cover;"></div>
+								</div></a>
+
+
+								<a href="/HTML/news/2021/09/article_3066.html"><div class="news news-left">
+									<div class="news-top"></div>
+									<div class="news-foot">
+										<p>【人物】爱华、友华、勤学好问的东软青年——国际留学生马蒙</p>
+									</div>
+									<div class="photo" style="background: url(//img.nsu.edu.cn/upload/2021/9/20210913_092123.jpg) 100% no-repeat;background-size:cover;"></div>
+								</div></a>
+
+							</div>
+						</li>
+
+					</ul>
+	
+	      			<ul class="pot">
+	      				<li></li>
+	      				<li></li>
+	      				<li></li>
+	      			</ul>
+	
+					<div>
+						<div class="btn">
+							<a href="/HTML/news/list_68.html">查看更多人物专访</a>
+						</div>
+					</div>
+				</div>
+				<div class="modright">
+					<div>
+						<div class="font2">专&nbsp;题</div>
+						<div class="font3">Features</div>
+					</div>
+
+					<a href="https://features.nsu.edu.cn/20/" target="_blank"><div class="news-left"><!--https://www.sc.gov.cn/-->
+						<div class="news">
+							<div class="news-top"></div>
+									<div class="news-foot">
+								<p style="text-align:center;">深入学习贯彻党的二十大精神<!--四川省人民政府网站 | 不忘初心，牢记使命主题教育专题--></p>
+							</div><!--02/02F87A62A2F7B0B608ECFB1A6E4E1D94.jpg-->
+							<div class="photo" style="background: url(//www.nsu.edu.cn/img/20da.png) 100% no-repeat;background-size:cover;"></div>
+						</div>
+					</div></a>
+	
+					<div class="news-left">
+						<div class="btn">
+							<a href="https://features.nsu.edu.cn/" target="_blank">查看更多专题策划</a>
+						</div>
+					</div>
+
+				</div>
+			</div>
+		</div>
+
+
+		<!--<div style="width: 100%;"><a href="http://gxlz.scedu.net/" target="_blank"><img src="/img/scgxwllz.jpg" style="width:100%;display:block" /></a></div>-->
+
+	<!--板块五-->
+		<div class="modules5">
+			<div class="background1">
+				<div class="b-font1">精勤博学&nbsp;&nbsp;学以致用</div>
+				<div class="b-font1 b-font2">To&nbsp;&nbsp;Learn&nbsp;&nbsp;and&nbsp;&nbsp;to&nbsp;&nbsp;Apply</div>
+				<a href="/HTML/image/list_49.html"><div class="b-font3">更多东软影像</div></a>
+			</div>
+			<div class="background2">
+                <video id="introvideo" autoplay="autoplay" loop="loop" muted="muted" x5-video-player-fullscreen="false" x5-video-player-type="h5" playsinline="true" x-webkit-airplay="true" webkit-playsinline="true" style="width: 100%; height: 100%;">
+                        <source src="img/成都东软学院海外宣传视频1920x548.mp4" type="video/mp4">
+                </video>
+            </div>
+		</div>
+		<div class="modules6">
+			<div class="background2">
+				<a href="http://www.cdjubao.gov.cn/" target="_blank"><img src="/img/jb-banner.png" style="width:100%" /></a>
+			</div>
+		</div>
+	<!--底部-->
+
+		<div class="foot">
+				<!--<div style="text-align:center;font-size:14px;color:#ffffff">友情链接：<a href="http://gxlz.scedu.net/" target="_blank"><span style="color:#ffffff">四川省高校网络理政平台</span></a></div>-->
+			<div class="foot1">
+				<div class="foot-l">
+					<img src="img/logo_ww.png"/>
+				</div>
+				<div class="foot-m">
+					<p>	
+						投诉举报方式：xf@nsu.edu.cn  、 028-64888000<br />
+						地址：四川省 成都市 都江堰市 青城山镇东软大道1号<br />
+						邮编：611844<br />			
+						<a href="https://beian.miit.gov.cn/" target="_blank">蜀ICP备12011972号-2</a><br />
+						Copyright &copy; 2002-2023 成都东软学院 All Rights Reserved</p><br /><br />
+				</div>
+				<div class="foot-r">
+					<ul>
+						<a href="/HTML/service/article_55.html">
+							<li><img src="img/f_contactus.png" />
+								<ul>
+									<li><img src="img/contactus3.png"/></li>
+									<li><img src="img/contactus2.png"/></li>
+								</ul>
+							</li>
+						</a>
+						<a href="#">
+							<li><img src="img/f_wx.png"/>
+								<ul>
+									<li><img src="img/wxcode.jpg"/></li>
+									<li><img src="img/wx2.png"/></li>
+								</ul>
+							</li>
+						</a>
+						<a target="_blank" href="https://passport.weibo.com/wbsso/login?ssosavestate=1565616517&url=https%3A%2F%2Fweibo.com%2Fneusoft028%3Fsudaref%3Dwww.nsu.edu.cn%26display%3D0%26retcode%3D6102%26sudaref%3Dpassport.weibo.com&display=0&ticket=ST-Mjg0MzYyNDg3MA==-1534080517-gz-AFC135C406473FA96C16092054772776-1&retcode=0">
+							<li><img src="img/f_wb.png"/>
+								<ul>
+									<li><img src="img/wbcode.jpg"/></li>
+									<li><img src="img/wb2.png"/></li>
+								</ul>
+							</li>
+						</a>
+						<a target="_blank" href="https://www.toutiao.com/c/user/68055197523/">
+							<li><img src="img/f_tt.png"/>
+								<ul>
+									<li><img src="img/ttcode.jpg"/></li>
+									<li><img src="img/tt2.png"/></li>
+								</ul>
+							</li>
+						</a>
+						<a target="_blank" href="http://www.cdjubao.gov.cn/">
+							<li><img src="img/f_jb.png"/ alt="成都市互联网不良与违法信息举报中心">
+								<ul>
+									<li style="font-size:12px;width:80px;text-align:center;">举报中心</li>
+									<li><img src="img/contactus2.png"/></li>
+								</ul>
+							</li>
+						</a>
+						<a target="_blank" href="http://gxlz.scedu.net/">
+							<li><img src="img/f_lz.png"/ alt="四川省高校网络理政平台">
+								<ul>
+									<li style="font-size:12px;width:80px;text-align:center;">高校理政</li>
+									<li><img src="img/contactus2.png"/></li>
+								</ul>
+							</li>
+						</a>
+					</ul><!--
+					<ul>
+						<a href="/HTML/service/article_55.html">
+							<li>联系我们
+							</li>
+						</a>
+						<a href="#">
+							<li>微信
+							</li>
+						</a>
+						<a target="_blank" href="https://passport.weibo.com/wbsso/login?ssosavestate=1565616517&url=https%3A%2F%2Fweibo.com%2Fneusoft028%3Fsudaref%3Dwww.nsu.edu.cn%26display%3D0%26retcode%3D6102%26sudaref%3Dpassport.weibo.com&display=0&ticket=ST-Mjg0MzYyNDg3MA==-1534080517-gz-AFC135C406473FA96C16092054772776-1&retcode=0">
+							<li>微博
+							</li>
+						</a>
+						<a target="_blank" href="https://www.toutiao.com/c/user/68055197523/">
+							<li>头条
+							</li>
+						</a>
+					</ul>-->
+				</div>
+			</div>
+		</div>
+
+<div id="apDiv1" style="visibility:hidden;display:none;">
+<script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
+<script>LA.init({id: "JkroUC8QOYwmzd6j",ck: "JkroUC8QOYwmzd6j"})</script>
+</div>
+	</body>
+</html>
