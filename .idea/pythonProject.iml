@@ -14,9 +14,9 @@
   </component>
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/scrapy/caipiao/caipiao" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/scrapy/tianya/tianya" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/scrapy/tupianzj/tupianzj" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/逆向/实战/scrapy/caipiao/caipiao" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/逆向/实战/scrapy/tianya/tianya" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/逆向/实战/scrapy/tupianzj/tupianzj" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.9 (python3.9)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />

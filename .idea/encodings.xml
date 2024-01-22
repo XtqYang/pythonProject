@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding" defaultCharsetForPropertiesFiles="GBK">
-    <file url="file://$PROJECT_DIR$/NUDS/test2.html" charset="GBK" />
     <file url="file://$PROJECT_DIR$/Sunny/Sunny-Ngrok启动工具.bat" charset="GBK" />
     <file url="file://$PROJECT_DIR$/ZhiMiao_JiuJia-main/jiujia-master/data.pcap" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/python/TikTokDownload-main/dist/conf.ini" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/scrapy/scrapy_readbook/scrapy_readbook/spiders/read.py" charset="GBK" />
     <file url="file://$PROJECT_DIR$/sdk-1/ChangeLog.txt" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sdk-1/README.txt" charset="GBK" />
     <file url="file://$PROJECT_DIR$/sdk-1/滴——老司机卡.txt" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/数据解析/ajax的get请求豆瓣电影.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/逆向/实战/NUDS/test2.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/逆向/实战/scrapy/scrapy_readbook/scrapy_readbook/spiders/read.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/逆向/实战/数据解析/ajax的get请求豆瓣电影.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/逆向/工具/简单服务器/FastAPI/data.txt" charset="GBK" />
     <file url="file://$PROJECT_DIR$/🐓/DDOS/ddos-attack.py" charset="UTF-8" />
   </component>
 </project>
